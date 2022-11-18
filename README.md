@@ -1,4 +1,4 @@
-# Hi, I’m Artyom ![image](https://user-images.githubusercontent.com/63186437/202670594-e0d637c2-bbc6-49e6-a075-b8d492dd6f52.png)
+# Hi, I’m Artyom [image](https://user-images.githubusercontent.com/63186437/202670594-e0d637c2-bbc6-49e6-a075-b8d492dd6f52.png)
 
 
 - 👀 I’m interested in ...
