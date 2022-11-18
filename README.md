@@ -1,9 +1,7 @@
-# Hi, I’m Artyom [!](https://user-images.githubusercontent.com/63186437/202670594-e0d637c2-bbc6-49e6-a075-b8d492dd6f52.png)
+# Hi, I’m Artyom 👋
 
-
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning development web-apps by Django
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I enjoy snowbording and traveling
 - 📫 [How to reach me](https://www.linkedin.com/in/artyom-golubev/)
 
 <!---
