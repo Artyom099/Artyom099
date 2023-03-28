@@ -1,6 +1,6 @@
 # Hi, I’m Artyom 👋
 
-- 🌱 I’m currently learning development web-apps by Django
+- 🌱 I’m currently learning development web-apps by Node.js
 - 💞️ I enjoy snowbording and traveling
 - 📫 [How to reach me](https://www.linkedin.com/in/artyom-golubev/)
 
