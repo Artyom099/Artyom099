@@ -1,7 +1,7 @@
 # Hi, I’m Artyom 👋
 
 
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently learning development web-apps by Node.js<br>💬 [How to reach me](https://www.linkedin.com/in/artyom-golubev/)<br>💞️ I enjoy snowbording and traveling
 
 
