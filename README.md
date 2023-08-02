@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🌱 I’m currently explore development web-apps by Node.js & TypeScript<br>💬 [How to reach me](https://www.linkedin.com/in/artyom-golubev/)<br>💞️ I enjoy snowbording and traveling
+🌱 I’m currently explore development web-apps by NodeJS & TypeScript<br>💬 [How to reach me](https://www.linkedin.com/in/artyom-golubev/)<br>💞️ I enjoy snowbording and traveling
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artyom2dot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artyom-golubev) 
